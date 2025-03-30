@@ -5,6 +5,6 @@ For binary classification:
 For multiclass classificaiton:<br>
   1. put the images in the "Multiclass Classification/Dataset"
   2. Run the Binary Classification.ipynb
-  3. you will get the resulting densenet model as .onnx. then run the Multiclassapp.py with "streamlit run Multiclassapp.py"
+  3. you will get the resulting densenet model as .onnx. then run the Multiclassapp.py with "streamlit run Multiclassapp.py"<br>
 For Hybrid model<br>
   1. Put the randomforest.pkl and .onnx model in the directory and run "streamlit run Hybridmodel.py".
